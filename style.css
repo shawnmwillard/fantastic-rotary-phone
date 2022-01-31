@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: silver;
+    text-align: center;
+}
+
+h2 {
+    color: silver;
+    text-align: left;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    color: silver;
+}
+
+footer { 
+    color: silver;
+}
